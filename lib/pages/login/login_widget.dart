@@ -170,7 +170,7 @@ class _LoginWidgetState extends State<LoginWidget>
                             const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 72.0),
                         child: Text(
                           FFLocalizations.of(context).getText(
-                            'qggdbtg4' /* Kitty */,
+                            'qggdbtg4' /* WealthWise */,
                           ),
                           style: FlutterFlowTheme.of(context)
                               .displaySmall

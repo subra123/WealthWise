@@ -200,7 +200,7 @@ class _InitialWidgetState extends State<InitialWidget>
                                                   child: Text(
                                                     FFLocalizations.of(context)
                                                         .getText(
-                                                      'pxfeuk07' /* Kitty */,
+                                                      'pxfeuk07' /* WealthWise */,
                                                     ),
                                                     style: FlutterFlowTheme.of(
                                                             context)
@@ -1071,7 +1071,8 @@ class _InitialWidgetState extends State<InitialWidget>
                                     ],
                                   ),
                                   Align(
-                                    alignment: const AlignmentDirectional(0.0, 1.0),
+                                    alignment:
+                                        const AlignmentDirectional(-0.07, 0.91),
                                     child: Padding(
                                       padding: const EdgeInsetsDirectional.fromSTEB(
                                           0.0, 0.0, 0.0, 32.0),

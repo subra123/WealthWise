@@ -108,7 +108,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // initial
   {
     'pxfeuk07': {
-      'en': 'Kitty',
+      'en': 'WealthWise',
       'pt': 'Kitty',
     },
     'd7h63cn1': {
@@ -364,7 +364,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // login
   {
     'qggdbtg4': {
-      'en': 'Kitty',
+      'en': 'WealthWise',
       'pt': 'Kitty',
     },
     'kxiutu7a': {
